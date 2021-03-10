@@ -13,3 +13,6 @@ Una numeración:
 1. a
 2. b
 3. c
+
+[pagina del laboratorio](peluclab.github.io)
+
