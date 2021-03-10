@@ -1,5 +1,5 @@
-#La pagina del barto
-##Es mejor que la del tanque 
+# La pagina del barto
+ ## Es mejor que la del tanque 
 
 *Aguante el Turdus rufiventris 
 
