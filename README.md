@@ -16,6 +16,6 @@ Una numeración:
 2. b
 3. c
 
-[pagina del laboratorio](peluclab.github.io)
+[pagina del laboratorio](http://peluclab.github.io/)
 
 ![Zorzales](https://i.ytimg.com/vi/qgo2f6ELruk/maxresdefault.jpg)
