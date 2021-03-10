@@ -14,5 +14,5 @@ Una numeración:
 2. b
 3. c
 
-[pagina del laboratorio](peluclab.github.io)
+[pagina del laboratorio](https://aoe2.club/playerprofile/934098)
 
